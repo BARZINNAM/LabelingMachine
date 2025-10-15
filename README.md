@@ -18,7 +18,6 @@ cmake --build . --config Release
 
 ## Build
 
-```bash
 mkdir build && cd build
 cmake ..
 make
